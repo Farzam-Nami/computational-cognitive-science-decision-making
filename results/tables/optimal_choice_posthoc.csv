@@ -1,0 +1,4 @@
+comparison,wilcoxon_statistic,p_value,bonferroni_adjusted_p
+Block 1 vs Block 2,196.5,0.031951,0.095853
+Block 1 vs Block 3,165.5,0.001728,0.005185
+Block 2 vs Block 3,369.5,0.988425,1.0

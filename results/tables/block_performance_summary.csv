@@ -1,0 +1,4 @@
+block,mean_reward_rate,sd_reward_rate,mean_optimal_choice_rate,sd_optimal_choice_rate
+1,0.548333,0.118382,0.286667,0.170269
+2,0.608333,0.108539,0.403333,0.247011
+3,0.597083,0.077523,0.397083,0.19633
